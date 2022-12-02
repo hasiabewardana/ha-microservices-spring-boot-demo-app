@@ -14,7 +14,7 @@ public class CurrencyController {
     private CurrencyServiceConfiguration currencyServiceConfiguration;
 
     // Controller method
-    @RequestMapping("/currency")
+    @RequestMapping("/currency-configurations")
     public CurrencyServiceConfiguration getAllCourses(){
         return currencyServiceConfiguration;
     }
