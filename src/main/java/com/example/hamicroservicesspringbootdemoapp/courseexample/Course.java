@@ -1,4 +1,4 @@
-package com.example.hamicroservicesspringbootdemoapp;
+package com.example.hamicroservicesspringbootdemoapp.courseexample;
 
 public class Course {
     private int id;

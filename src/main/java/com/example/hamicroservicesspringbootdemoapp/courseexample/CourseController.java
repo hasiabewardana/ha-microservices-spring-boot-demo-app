@@ -1,4 +1,4 @@
-package com.example.hamicroservicesspringbootdemoapp;
+package com.example.hamicroservicesspringbootdemoapp.courseexample;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
