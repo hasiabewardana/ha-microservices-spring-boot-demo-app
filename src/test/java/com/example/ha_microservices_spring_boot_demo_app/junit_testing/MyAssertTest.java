@@ -17,6 +17,8 @@ public class MyAssertTest {
 
         assertTrue(true, String.valueOf(test1));
         assertFalse(false, String.valueOf(test2));
+        assertNull(null);
+        assertNotNull("Not null");
         assertArrayEquals(new int[]{1, 2}, new int[]{1, 2});
         assertEquals(3, todos.size());
     }
