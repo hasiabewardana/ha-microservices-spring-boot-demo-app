@@ -1,4 +1,4 @@
-package com.example.ha_microservices_spring_boot_demo_app.course_example;
+package com.example.ha_microservices_spring_boot_demo_app.course_demo;
 
 public class Course {
     private int id;

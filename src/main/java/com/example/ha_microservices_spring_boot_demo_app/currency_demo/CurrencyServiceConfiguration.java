@@ -1,4 +1,4 @@
-package com.example.ha_microservices_spring_boot_demo_app.currency_example;
+package com.example.ha_microservices_spring_boot_demo_app.currency_demo;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

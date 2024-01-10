@@ -1,4 +1,4 @@
-package com.example.ha_microservices_spring_boot_demo_app.course_example;
+package com.example.ha_microservices_spring_boot_demo_app.course_demo;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

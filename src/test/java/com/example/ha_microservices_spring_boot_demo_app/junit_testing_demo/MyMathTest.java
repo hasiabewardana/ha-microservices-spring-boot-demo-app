@@ -1,4 +1,4 @@
-package com.example.ha_microservices_spring_boot_demo_app.junit_testing;
+package com.example.ha_microservices_spring_boot_demo_app.junit_testing_demo;
 
 import org.junit.jupiter.api.Test;
 
